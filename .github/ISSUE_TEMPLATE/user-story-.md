@@ -1,13 +1,13 @@
 ---
 name: 'User Story '
-about: 'Story of the user '
+about: 'story of the user '
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [role]
+1. **As a** [role]
 2. **I need** [function]
 3. **So that** [benefit]
 4.
